@@ -18,10 +18,10 @@ autodiscover.example.org A 192.168.11.2
 
 ## Download files and configure webserver
 
-Git clone to your own server
+Clone repo to your server
 
 ```
-https://gitlab.truong.fi/minh/AutoconfigPHP.git
+git clone https://gitlab.truong.fi/minh/AutoconfigPHP.git
 ```
 
 You see sample webserver configs on websrv-configs dir. 
