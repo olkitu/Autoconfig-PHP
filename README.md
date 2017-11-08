@@ -36,4 +36,4 @@ automx-tst localpart@domainpart
 
 ## Authors
 
-* Minh Truong - 
+* Minh Truong
