@@ -33,3 +33,7 @@ Use 'automx-test' command line client to testing
 ```
 automx-tst localpart@domainpart
 ```
+
+## Authors
+
+* Minh Truong - 
