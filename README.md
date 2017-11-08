@@ -31,7 +31,7 @@ You see sample webserver configs on websrv-configs dir.
 Use 'automx-test' command line client to testing
 
 ```
-automx-tst localpart@domainpart
+automx-test localpart@domainpart
 ```
 
 ## Authors
