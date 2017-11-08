@@ -14,8 +14,8 @@ You need web server and php running on server. This is tested on Debian 8 and PH
 
 You need add autoconfig and autodiscover A-records to pointing to your server
 
-autoconfig.example.org A 192.168.11.2
-autodiscover.example.org A 192.168.11.2
+* autoconfig.example.org A 192.168.11.2
+* autodiscover.example.org A 192.168.11.2
 
 ## Download files and configure webserver
 
