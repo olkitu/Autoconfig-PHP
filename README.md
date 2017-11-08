@@ -7,6 +7,7 @@ Autoconfig PHP is simple PHP script getting email settings to Outlook and Thunde
 You need web server and php running on server. This is tested on Debian 8 and PHP 7.2.
 
 * Webserver, Nginx or Apache
+    * Valid SSL-sertificate to your own domain
 * PHP5 or 7 with php-xml
 
 ### Setup your domain DNS-records
