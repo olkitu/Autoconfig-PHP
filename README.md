@@ -12,10 +12,15 @@ You need web server and php running on server. This is tested on Debian 8 and PH
 
 ### Setup your domain DNS-records
 
-You need add autoconfig and autodiscover A-records to pointing to your server
+You need add autoconfig and autodiscover A-records to pointing to your server.
 
 * autoconfig.example.org A 192.168.11.2
 * autodiscover.example.org A 192.168.11.2
+
+If you like, you can also use SRV records on autodiscover address, so then need only one SSL-certificate on server.
+
+* _autodiscover._tcp.example2.org SRV 0 443 autodiscover.example.org
+
 
 ## Download files and configure webserver
 
