@@ -27,7 +27,7 @@ If you like, you can also use SRV records on autodiscover address, so then need 
 Clone repo to your server
 
 ```
-git clone https://gitlab.truong.fi/minh/AutoconfigPHP.git
+git clone https://github.com/olkitu/Autoconfig-PHP.git
 ```
 
 You see sample webserver configs on websrv-configs dir. 
