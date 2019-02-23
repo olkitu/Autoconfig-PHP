@@ -41,7 +41,3 @@ wget https://raw.githubusercontent.com/sys4/automx/master/src/automx-test
 chmod +x automx-test
 ./automx-test localpart@domainpart
 ```
-
-## Authors
-
-* Minh Truong
